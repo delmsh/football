@@ -104,7 +104,7 @@ Create a webhook, give it a name and pick which channel to receive messages in
 
 ![](https://i.imgur.com/NAJLv6D.png)
 
-Save the "Webhook URL" on this page
+Save the "Webhook URL" on this page https://discord.com/api/webhooks/1135779899852980234/AKG7x6vlJriSFeAmld2v5Q11kvCH320FRjFO9rCw-dZhlR2B8rJaKHG6Ywyy8whEtbdQ
 
 ![](https://i.imgur.com/U4MKZSY.png)
 
